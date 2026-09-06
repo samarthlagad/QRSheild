@@ -1,0 +1,10 @@
+{
+  "name": "QRShield",
+  "description": "Detect malicious and phishing QR codes (quishing) before opening links with real-time camera scanning and deep deterministic threat heuristics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
